@@ -35,9 +35,6 @@ const SignupPage = ( ) => {
       setResponse(error?.response?.data?.error)
     }
   }
-
-  console.log(data,'data====>>>')
-  console.log(response,'respose')
   return (
     <div className=" d-flex flex-column justify-content-center align-items-center">
       <form
