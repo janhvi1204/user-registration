@@ -17,7 +17,7 @@ export default function UserTable() {
       <th scope="row">1</th>
       <td>Mark</td>
       <td>Otto</td>
-      <td>@mdo</td>
+      <td>janhvi@gmail.com</td>
     </tr>
     <tr>
       <th scope="row">2</th>
